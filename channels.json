@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1469117691766767708",
+    "name": "item-sorters",
+    "code": "IS",
+    "embedding": "OhMKCzgU3hvN2Ojt8S35F/4NDwfw4ifXGPrRBucF7Ao01e3x7AoC1QHf8AcN8pca7QHWHu4g+O0B5vgROPwVAvwZ/Rz8AAPZAQUi9+4jBxkSADQ2BRX/9fc36db3/R/m+/goCgDdLO0D8f/a8hXzFRAI+R8q8d4TFiYUFQIALPTv4BgdF/MA2QYYIg79Ag0j8tjrCd0Z6Of87dkS9vLV/OEuAAP/8/sWAPIK/R4V4fwoFBPu5/vr8fX34w8DFOPJLgP0AOYsHRklAQ/w6O4CAhj8988k4hMAAwj+3y8UBxnkK0sAUejoJucm9AgeACzq+P8IHu8NEQD6/hHzCgwn+g==",
+    "category": "Example Archive",
+    "path": "Archive/IS_item-sorters",
+    "description": "Sorts items using hoppers",
+    "position": 6
+  },
+  {
+    "id": "1469117775443136655",
+    "name": "storage-systems",
+    "code": "SS",
+    "embedding": "IDcgKT8H6ATb2f78ChTw8gQMBg/z+TjzHAnx/d8R+v8C+/Ly4Arx7+oI+h0XBqEi8QLXFwH3BBIRDQX7GgoADxjQEgnr9gz29+QD+gH5FyYnBCEx/woQ5/BHBrgS++/u8BUtHPT4ItgE+PjN7BMH/hD68R4X6A0cADEVDhv4G/oA3/XwGgUV1/cPDv73+hMvHuLcB+0F4Pzs3uQC/v/S7PYa+xoQ8AMCCuLt6xIl1wY7NALm2uQTAADqBvo1ANnIBQAI/vgpDScMFRnY8PgS6BMJAa8r6RbkAgAR/TciCSjhJSrgL+oEFwczIiUCGB3a9uwAGOrpGwf4EfcY9A5F6w==",
+    "category": "Example Archive",
+    "path": "Archive/SS_storage-systems",
+    "description": "Giant storage systems",
+    "position": 7
+  },
+  {
+    "id": "1469117827653963920",
+    "name": "block-farms",
+    "code": "BF",
+    "embedding": "OwYeDEMv5QvZ1u/x9h/wCvQNDPkE1CzsFxcAAOQV8gQQ9ez6zQzl8vX19AoE/59G7BDSGwT//wr08hAFJfkIBfXy9Bvo+QjsEuYu4vIpGx8p/Cw29PAb8vos/tLz7RDh/QIOCuTmCg31BOnQ+P8DFib87hsQ+vcQ8ycOGBMPCBrw7hP+DvoF5P75FAHI9hBI+9HY8/QR8f0ADeP2Afnb/vMjGQEn/AYH9vfb6w/y6gAcIwAG+wT/CP3yBvgJG/jUFxPiANwiJEQCEAPp5Pj/4jbm59VM2R4EDgAS8EMrACLiGC3eHvHkFhQy/QYYGTPa+c8WBentJAjt/PX9Ausy9w==",
+    "category": "Example Archive",
+    "path": "Archive/BF_block-farms",
+    "description": "Farms blocks",
+    "position": 8
+  },
+  {
+    "id": "1469117936999596132",
+    "name": "redstone-computers",
+    "code": "RC",
+    "embedding": "PSkSDDoWAh3l2fAOBxjsH+oD8ggA/C7wHO/w8tQg4f8R2/L69xb6Avnz8hL+C6Ey2fzrEvcIBBkI/CAPTvsLEvXR/ejZ9wjrCOgA1fX+HyEl/jky7g8QAe0sBLwU5wXW+/wbFRLjIvUQD/fn7AYI6AUA5iEHDff/BCYODx8RIhj5zBAPIgwJ2fP1+BXu4hEyCffa8+UX7P7t7eMVBPHB7eQFDgwOEhH/LhXu5h8Y8gwkMv/t/uH4Avzy/P4qEALfKxT5E85CGSgP+Q3v5OkI/ysG8c4l6BoK4vsC6yosBCfkNSHzMfXDBg8rDhH29hby8u79Evb5JQH/C/P6C/YsEQ==",
+    "category": "Example Archive",
+    "path": "Archive/RC_redstone-computers",
+    "description": "Useful redstone computers",
+    "position": 9
+  }
+]

@@ -7,7 +7,7 @@
     "category": "Example Archive",
     "path": "Archive/IS_item-sorters",
     "description": "Sorts items using hoppers",
-    "position": 6
+    "position": 8
   },
   {
     "id": "1469117775443136655",
@@ -17,7 +17,7 @@
     "category": "Example Archive",
     "path": "Archive/SS_storage-systems",
     "description": "Giant storage systems",
-    "position": 7
+    "position": 9
   },
   {
     "id": "1469117827653963920",
@@ -27,7 +27,7 @@
     "category": "Example Archive",
     "path": "Archive/BF_block-farms",
     "description": "Farms blocks",
-    "position": 8
+    "position": 10
   },
   {
     "id": "1469117936999596132",
@@ -37,6 +37,6 @@
     "category": "Example Archive",
     "path": "Archive/RC_redstone-computers",
     "description": "Useful redstone computers",
-    "position": 9
+    "position": 11
   }
 ]

@@ -1,0 +1,108 @@
+{
+  "id": "1469121226223128760",
+  "name": "Test Submission",
+  "code": "IS001",
+  "reservedCodes": [
+    "IS001"
+  ],
+  "pastPostThreadIds": [
+    "1469121432578560023"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1469120778657206470",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1469120778657206471",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1469121226382249995",
+      "name": "logo.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1469121226223128760/1469121226382249995/logo.jpg?ex=69868143&is=69852fc3&hm=43d36c04537508660f8cdcc3e4647b3d01193c893d1a64abe9f330f1c25855cf&",
+      "timestamp": 1770336195284,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 19190,
+      "canDownload": true,
+      "width": 160,
+      "height": 160,
+      "path": "images/logo.png"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1469121226764189696",
+      "name": "IS001_sorter.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1469121226223128760/1469121226764189696/sorter.litematic?ex=69868143&is=69852fc3&hm=4997987bac48e5a291ab2bcc952a8e15a8b5131ecfd7067cc73f02accd84b42f&",
+      "timestamp": 1770336195284,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1067,
+      "canDownload": true,
+      "path": "attachments/IS001_sorter.litematic",
+      "litematic": {
+        "size": "12x11x1",
+        "version": "Unknown"
+      }
+    }
+  ],
+  "records": {
+    "description": "This is a test submission",
+    "features": [
+      "very testy stuff"
+    ]
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1469121432578560023",
+    "forumId": "1469117691766767708",
+    "continuingMessageIds": [
+      "1469121436038987778"
+    ],
+    "threadURL": "https://discord.com/channels/1468691604553597062/1469121432578560023",
+    "uploadMessageId": "1469121428002443309"
+  },
+  "archivedAt": 1770336242591,
+  "updatedAt": 1770336242591,
+  "num_comments": 0
+}

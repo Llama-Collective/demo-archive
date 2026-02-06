@@ -4,6 +4,12 @@
   "code": "IS",
   "category": "Example Archive",
   "description": "Sorts items using hoppers",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1469121226223128760",
+      "code": "IS001",
+      "path": "IS001_Test_Submission"
+    }
+  ]
 }

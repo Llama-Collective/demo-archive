@@ -1,0 +1,108 @@
+{
+  "id": "1477403138301628579",
+  "name": "blah blah blah",
+  "code": "BF001",
+  "reservedCodes": [
+    "BF001"
+  ],
+  "pastPostThreadIds": [
+    "1477403533316722879"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "239078039831445504",
+      "username": "andrews54757",
+      "displayName": "Andrews54757",
+      "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1469120782109249604",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1477403139790471279",
+      "name": "area_render_193_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1477403138301628579/1477403139790471279/area_render_193_.png?ex=69a4a265&is=69a350e5&hm=d56af1b0aac1e1e52cdb6604da698cc61800738f3b58cbdc477c8681e43fbc8b&",
+      "timestamp": 1772310756994,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 80217,
+      "canDownload": true,
+      "width": 837,
+      "height": 477,
+      "path": "images/area_render_193_.png",
+      "hash": "2c0c77b35980949821ee4d9c47ad30e3511eb9f0321fd8d215fe41d886b3bacd"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1477403139039564049",
+      "name": "BF001_8w_16x_SSI_precision_compactor_loader.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1477403138301628579/1477403139039564049/8w_16x_SSI_precision_compactor_loader.litematic?ex=69a4a265&is=69a350e5&hm=90cec0dfb1c7b1ae4b89238d30613d571b99cb5c9c99115872eeda8b0feb8a42&",
+      "timestamp": 1772310756994,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "239078039831445504",
+        "username": "andrews54757",
+        "displayName": "Andrews54757",
+        "iconURL": "https://cdn.discordapp.com/avatars/239078039831445504/3cabc63679bd9d8d74073833458570b3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2154,
+      "canDownload": true,
+      "hash": "335f3e783129374747c1704ce98c01ce8f643117e4bc4b6da26c36c8d8aba1ee",
+      "path": "attachments/BF001_8w_16x_SSI_precision_compactor_loader.litematic",
+      "litematic": {
+        "size": "9x9x8",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "",
+    "features": [
+      "cool stuff"
+    ],
+    "considerations": [],
+    "notes": ""
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1477403533316722879",
+    "forumId": "1469117827653963920",
+    "continuingMessageIds": [
+      "1477403543207022755"
+    ],
+    "threadURL": "https://discord.com/channels/1468691604553597062/1477403533316722879",
+    "uploadMessageId": "1477403530527510608"
+  },
+  "archivedAt": 1772310849713,
+  "updatedAt": 1772310849713,
+  "num_comments": 0
+}

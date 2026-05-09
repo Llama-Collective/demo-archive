@@ -5,5 +5,11 @@
   "category": "Example Archive",
   "description": "Farms blocks",
   "currentCodeId": 1,
-  "entries": []
+  "entries": [
+    {
+      "id": "1477403138301628579",
+      "code": "BF001",
+      "path": "BF001_blah_blah_blah"
+    }
+  ]
 }

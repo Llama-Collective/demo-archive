@@ -9,6 +9,7 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1468691604553597062/1502724121308430387)
 
+A description of the device. test
 ## Features
 - cool stuff
 

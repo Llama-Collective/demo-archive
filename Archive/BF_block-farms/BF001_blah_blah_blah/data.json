@@ -84,12 +84,10 @@
     }
   ],
   "records": {
-    "description": "",
+    "description": "A description of the device. test",
     "features": [
       "cool stuff"
-    ],
-    "considerations": [],
-    "notes": ""
+    ]
   },
   "styles": {},
   "references": [],
@@ -105,6 +103,6 @@
     "thumbnailURL": "https://cdn.discordapp.com/attachments/1502724121308430387/1502724126983458968/area_render_193_.png?ex=6a00c067&is=69ff6ee7&hm=06eb9d2038f0b140d78f1fc015d80ac9a0e6586f9ba7af94bdbf6ce99563afc6&"
   },
   "archivedAt": 1778347748399,
-  "updatedAt": 1778347748399,
+  "updatedAt": 1778393278200,
   "num_comments": 0
 }

@@ -9,8 +9,9 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1468691604553597062/1510067862738571556)
 
-## Error
-LLM extraction failed! Please revise the submission manually.
+blah blah
+## Features
+- blah
 
 ## Resources
 - [IS002_area_render_240_.png](attachments/IS002_area_render_240_.png): image/png

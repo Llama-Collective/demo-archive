@@ -53,7 +53,8 @@
       "width": 648,
       "height": 757,
       "path": "images/area_render_240_.png",
-      "hash": "843c121f0107b33b3d7b8da44ca34400bf48f0673723ba8e84adad048bb30963"
+      "hash": "843c121f0107b33b3d7b8da44ca34400bf48f0673723ba8e84adad048bb30963",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1510067715539341312/1510070233174638793/1510067715661103174-area_render_240_.png?ex=6a1b79ff&is=6a1a287f&hm=0e8e4cd9142f2f180cffaff4b5a19d849215e8a9cd13b11b50e1e27ecef0f923&"
     }
   ],
   "attachments": [
@@ -83,7 +84,10 @@
     }
   ],
   "records": {
-    "error": "LLM extraction failed! Please revise the submission manually.\n\n"
+    "description": "blah blah",
+    "features": [
+      "blah"
+    ]
   },
   "styles": {},
   "references": [],
@@ -99,6 +103,6 @@
     "uploadMessageId": "1510067860284903586"
   },
   "archivedAt": 1780098632672,
-  "updatedAt": 1780098632672,
+  "updatedAt": 1780099244322,
   "num_comments": 0
 }
